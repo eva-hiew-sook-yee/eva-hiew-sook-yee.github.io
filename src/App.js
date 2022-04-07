@@ -55,7 +55,7 @@ class Introduction extends React.Component{
             <div className="image-link-panel">
 
               <li>
-                <a title="drop me an email!" href="mailto:EVAH0001@e.ntu.edu.sg" target="_blank">
+                <a title="drop me an email!" href="mailto:eva_hiew@live.com" target="_blank">
                   <i class="fa-solid fa-at fa-2xl" alt="mail"></i>
                 </a>
               </li>
